@@ -1,0 +1,16 @@
+body {
+	padding-top: 100px ;
+}
+.done, .done:hover {
+	text-decoration: line-through;
+}
+input {	
+	text-align: center;
+}
+a:hover {
+	text-decoration: none;
+}
+.task {
+	padding: 10px;
+	font-size: 18px;
+}

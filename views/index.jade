@@ -1,0 +1,20 @@
+//- views/index.jade
+
+extends layout
+
+block content
+	.row 
+		h1 Todo App
+		h2 You have #{todos.length} task(s) to do!
+		.well
+			for task in todos
+				.task
+					a(href='/' + task.id + (task.status ? '/undo' : '/do'), class=(task.status ? 'done' : ''))= task.name
+					a(style='margin-left: 10px;', href='/' + task.id + '/delete')
+						span.glyphicon.glyphicon-trash
+	.row
+		#newTasks.col-sm-6.col-sm-offset-3
+			form(method="POST", action="/")
+				input(type="text", name="task", id="newTask", placeholder="Add a task!", title="Add a task").form-control
+				br
+				button#addTaskBtn(type="submit").btn.btn-primary Add Task
