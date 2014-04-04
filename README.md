@@ -3,12 +3,16 @@ Todo-App
 
 A tutorial to create the 'Hello World' of web applications.
 
+Read more at [Artsy-Blog]
+
 ---
 
 Dependencies
 ============
 
-Node.js
-ExpressJS
-Jade
-MongoDB and Mongoose
+* Node.js
+* ExpressJS
+* Jade
+* MongoDB and Mongoose
+
+
