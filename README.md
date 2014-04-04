@@ -8,9 +8,10 @@ Read more at [Artsy|Blog| Nodejs Web App 101](http://artsyvb.herokuapp.com/blog/
 How To Use
 =========
 
-* Copy or download the repository
+* Clone or download the repository
 * Navigate to directory
 * Run npm install
+* Launch server
 
 Dependencies
 ============
