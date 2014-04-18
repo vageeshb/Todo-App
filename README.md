@@ -3,7 +3,7 @@ Todo-App
 
 A tutorial to create a simple web application.
 
-Read more at [Artsy|Blog|Nodejs Web App 101](http://artsyvb.herokuapp.com/blog/Node.js_Web_App_101)
+Read more at [Artsy|Blog|Nodejs Web App 101](http://artsyvb.herokuapp.com/blog/Nodejs_Web_App_101)
 
 How To Use
 =========
