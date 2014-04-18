@@ -3,7 +3,7 @@ Todo-App
 
 A tutorial to create a simple web application.
 
-Read more at [Artsy|Blog| Nodejs Web App 101](http://artsyvb.herokuapp.com/blog/Node.js%20Web%20App%20101)
+Read more at [Artsy|Blog|Nodejs Web App 101](http://artsyvb.herokuapp.com/blog/Node.js_Web_App_101)
 
 How To Use
 =========
@@ -11,7 +11,7 @@ How To Use
 * Clone or download the repository
 * Navigate to directory
 * Run npm install
-* Launch server
+* Launch server (node server.js)
 
 Dependencies
 ============
